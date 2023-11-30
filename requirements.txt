@@ -1,5 +1,4 @@
 setuptools<58.0.0
-git commit -m "first commit"amqp==5.1.1
 anyjson==0.3.3
 asgiref==3.6.0
 async-timeout==4.0.3
